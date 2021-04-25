@@ -1,2 +1,2 @@
 # node
-save node project
+vue cli simple pratice
